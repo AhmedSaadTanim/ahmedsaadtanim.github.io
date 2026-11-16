@@ -190,11 +190,18 @@ export const projectItems = [
     embedLink: "N/A",
   },
   {
+    title: "Tidy Up!",
+    description: "A simple game where players tidy up a room by collecting items and placing them in the correct locations.",
+    gitLink: "https://github.com/AhmedSaadTanim/Room",
+    demoLink: "https://ahmedsaadtanim.itch.io/tidy-up",
+    embedLink: "https://ahmedsaadtanim.itch.io/tidy-up",
+  },
+  {
     title: "Main Memory",
     description: "A text based interactive game where game AI adapts to player responses and actions",
     gitLink: "https://github.com/TeamAugmentors/Main-Memory",
-    demoLink: "N/A",
-    embedLink: "N/A",
+    demoLink: "https://play.google.com/store/apps/details?id=com.PlayNami.MainMemory",
+    embedLink: "https://play.google.com/store/apps/details?id=com.PlayNami.MainMemory",
   },
   {
     title: "JobSeeker Web",
