@@ -8,18 +8,18 @@ const CV = () => {
       <p className="mt-4 mb-2 text-lg">
         You can download a PDF copy of my {" "}
         <ClickableLink
-          linkText="Academic CV"
-          link="https://drive.google.com/file/d/1QXH14SuVeZdE6yb_fiC72cDVqsAZD9HK/view"
+          linkText="Resume/CV"
+          link="https://drive.google.com/file/d/1quLiUemH5TrlPnA9KwVY_a8aivXffjHB/view"
         />{" "}
         here
       </p>
       <iframe
-        src="https://drive.google.com/file/d/1QXH14SuVeZdE6yb_fiC72cDVqsAZD9HK/preview"
+        src="https://drive.google.com/file/d/1quLiUemH5TrlPnA9KwVY_a8aivXffjHB/preview"
         className="w-full h-[calc(100dvh-20rem)] border-none"
         title="PDF Viewer"
       ></iframe>
 
-      <p className="mt-4 mb-2 text-lg">
+      {/* <p className="mt-4 mb-2 text-lg">
         You can download a PDF copy of my{" "}
         <ClickableLink
           linkText="Work CV"
@@ -31,7 +31,7 @@ const CV = () => {
         src="https://drive.google.com/file/d/1S1dtDx_U1FLnoQjIS2KAhNmStbroy187/preview"
         className="w-full h-[calc(100dvh-20rem)] border-none"
         title="PDF Viewer"
-      ></iframe>
+      ></iframe> */}
     </Section>
   );
 };
